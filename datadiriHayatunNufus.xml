@@ -17,6 +17,11 @@
     </alamat>
     <status>Belum Menikah</status>
     <agama>Islam</agama>
+       <riwayatPendidikan>
+           <sd>SDN BLUKBUK II</sd>
+           <smp>Mtsn DAARUL FALAHIYYAH</smp>
+           <sma>MAN 4 TANGERANG</sma>
+        </riwayatPendidikan>
     <notlp>12345671234567</notlp>
     </dataDiri>
 
