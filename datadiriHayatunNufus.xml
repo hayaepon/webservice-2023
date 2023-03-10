@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<biodata>
+    <dataDiri>
+    <namalengkap>
+        <namaawal>Hayatun</namaawal>
+        <namaakhir>Nufus</namaakhir>
+    </namalengkap>
+    <jenisKelamin>Perempuan</jenisKelamin>
+    <lahir>
+        <tempat>Tangerang</tempat>
+        <tanggal>02 Juni 2002</tanggal>
+    </lahir>
+    <alamat>
+        <desa>Bakung</desa>
+        <kota>tangerang</kota>
+    </alamat>
+    <status>Belum Menikah</status>
+    <agama>Islam</agama>
+    <notlp>12345671234567</notlp>
+    </dataDiri>
+
+    <dataOrtu>
+        <dataAyah>
+        <namaAyah>Saidin</namaAyah>
+        </dataAyah>
+        <dataIbu>
+        <namaIbu>Aliah</namaIbu>
+        </dataIbu>
+    <alamatOrtu>
+        <desa>Bakung</desa>
+        <kota>tangerang</kota>
+    </alamatOrtu>
+    </dataOrtu>
+</biodata>
